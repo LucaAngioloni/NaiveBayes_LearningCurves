@@ -29,7 +29,7 @@ multinomial = True
 
 
 # Path of the reuters dataset
-reuters_path = "/Users/LucaAngioloni/Desktop/Int Art/Progetto/reuters21578/"
+reuters_path = "./reuters21578/"
 
 
 def print_configuration():

@@ -27,7 +27,7 @@ multinomial = True
 use_cv = True
 
 # Learning curve steps (train sizes)
-size_steps = 20
+size_steps = 10
 
 # number of iteration for each train size (cross validation)
 num_iterations = 100
@@ -36,7 +36,7 @@ num_iterations = 100
 test_size = 0.2
 
 # Path of the dataset
-news_groups_folder = '/Users/LucaAngioloni/Desktop/Int Art/Progetto/20news-18828'
+news_groups_folder = './20news-18828'
 
 
 def print_configuration():
